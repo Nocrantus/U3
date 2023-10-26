@@ -1,0 +1,21 @@
+#header
+{
+	background-color: red;
+}
+#nav
+{
+	background-color: yellow;
+}
+#body
+{
+	background-color: blue;
+}
+#footer
+{
+	background-color: green;
+}
+.orange
+{
+	background-color: white;
+	color: orange;
+}
